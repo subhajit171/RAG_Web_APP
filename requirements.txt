@@ -6,3 +6,4 @@ langchain-groq
 pypdf
 langchain_chroma
 langchain_huggingface
+pysqlite3-binary
