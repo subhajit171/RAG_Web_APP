@@ -8,4 +8,3 @@ langchain_chroma
 langchain_huggingface
 pysqlite3-binary
 chromadb==0.4.17
-sqlite3==3.35.0
